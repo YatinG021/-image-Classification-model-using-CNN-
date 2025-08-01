@@ -112,4 +112,56 @@ This separation enables clean, maintainable, and scalable code.
 - Kaggle Dataset: [Dogs vs Cats](https://www.kaggle.com/datasets/salader/dogs-vs-cats)  
 - GitHub Repository: [Source code](https://github.com/YatinG021/-image-Classification-model-using-CNN-/blob/main/README.md)
 ## OUTPUT
+## Model Summary: Layer-Wise Architecture Overview
+
+_Presents the complete architecture of the Convolutional Neural Network used for dog vs cat classification, detailing each layer type, output shape, and parameter count._
+
+![Model summary output](path/to/model-summary.jpg)
+
+## Training and Validation Accuracy: Well-Generalized Model
+
+*Shows both training and validation accuracy increasing over epochs with close performance, indicating a well-trained and generalized model without signs of overfitting.*
+
+![Training and Validation Accuracy - Generalized Model](path/to/your/image1.jpg)
+
+---
+
+## Training and Validation Loss: Well-Generalized Model
+
+*Depicts the loss decreasing for both training and validation sets at similar rates, confirming effective learning and good generalization.*
+
+![Training and Validation Loss - Generalized Model](path/to/your/image2.jpg)
+
+---
+
+## Training and Validation Accuracy: Overfitting Example
+
+*Illustrates overfitting: the training accuracy continues to rise while the validation accuracy plateaus or decreases, showing the model learns training data too well but fails to generalize.*
+
+![Training and Validation Accuracy - Overfitting](path/to/your/image3.jpg)
+
+---
+
+## Training and Validation Loss: Overfitting Example
+*Demonstrates overfitting by showing training loss decreasing steadily while validation loss begins to rise, indicating deteriorating performance on unseen data.*
+
+![Training and Validation Loss - Overfitting](path/to/your/image4.jpg)
+
+## Sample Output: Dog Image - Model Prediction Visualization
+
+_Shows a sample input image representing a dog, displayed as processed by the CNN model during evaluation or inference._
+
+![Dog image sample output](path/to/dog-image.jpg)
+
+---
+
+## Sample Output: Cat Image - Model Prediction Visualization
+
+_Displays a sample input image representing a cat, as processed by the model during testing or inference._
+
+![Cat image sample output](path/to/cat-image.jpg)
+
+---
+
+
 
