@@ -1,6 +1,18 @@
 # Image Classification Model Using CNN
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: YATIN GOGIA
+
+*INTERN ID*: CT04DH1053
+
+*DOMAIN*: MACHINE LEARNING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+*DESCRIPTION* :
 ## Dataset  
 **Dogs vs Cats dataset from Kaggle**  
 [Dataset link](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
