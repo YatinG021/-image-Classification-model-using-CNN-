@@ -116,52 +116,45 @@ This separation enables clean, maintainable, and scalable code.
 
 _Presents the complete architecture of the Convolutional Neural Network used for dog vs cat classification, detailing each layer type, output shape, and parameter count._
 
-![Model summary output](path/to/model-summary.jpg)
+<img width="803" height="637" alt="Image" src="https://github.com/user-attachments/assets/19151e4d-3a6a-4bf6-a280-49aede2ff758" />
 
 ## Training and Validation Accuracy: Well-Generalized Model
 
 *Shows both training and validation accuracy increasing over epochs with close performance, indicating a well-trained and generalized model without signs of overfitting.*
 
-![Training and Validation Accuracy - Generalized Model](path/to/your/image1.jpg)
+<img width="569" height="405" alt="Image" src="https://github.com/user-attachments/assets/35632aed-19c5-469e-b1ab-4b3e0a4d4a15" />
 
----
 
 ## Training and Validation Loss: Well-Generalized Model
 
 *Depicts the loss decreasing for both training and validation sets at similar rates, confirming effective learning and good generalization.*
 
-![Training and Validation Loss - Generalized Model](path/to/your/image2.jpg)
-
----
+<img width="559" height="401" alt="Image" src="https://github.com/user-attachments/assets/a29bff7c-f263-4256-b998-58b6dd82c2db" />
 
 ## Training and Validation Accuracy: Overfitting Example
 
 *Illustrates overfitting: the training accuracy continues to rise while the validation accuracy plateaus or decreases, showing the model learns training data too well but fails to generalize.*
 
-![Training and Validation Accuracy - Overfitting](path/to/your/image3.jpg)
+<img width="560" height="408" alt="Image" src="https://github.com/user-attachments/assets/469397c7-2238-4514-bc7e-601b61c12361" />
 
----
 
 ## Training and Validation Loss: Overfitting Example
 *Demonstrates overfitting by showing training loss decreasing steadily while validation loss begins to rise, indicating deteriorating performance on unseen data.*
 
-![Training and Validation Loss - Overfitting](path/to/your/image4.jpg)
+<img width="553" height="405" alt="Image" src="https://github.com/user-attachments/assets/907d6dec-769b-4bbe-8200-e8783bd444d4" />
+
+
 
 ## Sample Output: Dog Image - Model Prediction Visualization
 
 _Shows a sample input image representing a dog, displayed as processed by the CNN model during evaluation or inference._
 
-![Dog image sample output](path/to/dog-image.jpg)
+<img width="638" height="447" alt="Image" src="https://github.com/user-attachments/assets/4c59fb7c-485f-46a0-9138-dd9bcec0e9bd" />
 
----
 
 ## Sample Output: Cat Image - Model Prediction Visualization
 
 _Displays a sample input image representing a cat, as processed by the model during testing or inference._
 
-![Cat image sample output](path/to/cat-image.jpg)
-
----
-
-
+<img width="628" height="406" alt="Image" src="https://github.com/user-attachments/assets/56a77934-dc24-4dcf-8425-84d8c026ab76" />
 
